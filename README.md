@@ -1,6 +1,6 @@
 Dan Yehezkeli | Computer Science Student 👨‍🎓 |
 The Hebrew University of Jerusalem 🧐 | Jerusalem, Israel ✡ |
-danye052@gmail.com | [LinkedIn]() | [Github]()
+danye052@gmail.com | [LinkedIn](https://www.linkedin.com/in/dan-yehezkeli/) | [Github](https://github.com/danye1999)
 
 About me ✨: 
 Bachelor's student in Computer Science at the Hebrew University of Jerusalem, passionate about programming and technology.
@@ -15,7 +15,7 @@ Languages 🔠: Native in Hebrew, proficient in English
 
 Projects by me 🛠: 
 Random Walk Simulation 🚶‍♂️ - developed in Python, built using object-oriented programming principles, 
-featuring a GUI that allows users to select cartoon worlds and characters and observe 2D randomized interactions [Click Here]()
+featuring a GUI that allows users to select cartoon worlds and characters and observe 2D randomized interactions [Click Here](https://github.com/danye1999/random-walk-simulator)
 
 Military Experience ⚜: 
 - Combat Officer in the Search and Rescue Brigade 👷‍♂️ 
