@@ -1,16 +1,27 @@
-## Hi there 👋
+Dan Yehezkeli | Computer Science Student 👨‍🎓 |
+The Hebrew University of Jerusalem 🧐 | Jerusalem, Israel ✡ |
+danye052@gmail.com | [LinkedIn]() | [Github]()
 
-<!--
-**danye1999/danye1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me ✨: 
+Bachelor's student in Computer Science at the Hebrew University of Jerusalem, passionate about programming and technology.
+Believes in perseverance and striving for excellence, and aims to participate in impactful technological projects.
 
-Here are some ideas to get you started:
+Skills 🌀:
+- Professional Skills: Analytical and Critical thinking, Leadership, Teamwork, Perseverance 🔝
+- Technical Skills: Programming, Computer Science Principles ⭐
+- Programming Languages: Python, Java, C, C++, HDL 👨‍💻 
+  
+Languages 🔠: Native in Hebrew, proficient in English 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects by me 🛠: 
+Random Walk Simulation 🚶‍♂️ - developed in Python, built using object-oriented programming principles, 
+featuring a GUI that allows users to select cartoon worlds and characters and observe 2D randomized interactions [Click Here]()
+
+Military Experience ⚜: 
+- Combat Officer in the Search and Rescue Brigade 👷‍♂️ 
+- Deputy Commander of a classified unit 🛡
+- Platoon Commander in an operational sector 🚀
+
+Fun facts:
+- Broke the IDF record in the "Loran" fitness test for combat ground officers at BHD 1 🥇
+- I'm private Mathematics & Physics tutor for students from elementary to high school 👨‍🏫
